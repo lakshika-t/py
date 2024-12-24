@@ -1,0 +1,13 @@
+
+GitHub repository link: https://github.com/lakshika-t/py
+
+Python code output:
+File fetched successfully!
+
+File contents:
+print("hello world")
+
+
+Working directory:
+C:\Users\thill\Desktop\lux
+    
